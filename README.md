@@ -214,3 +214,5 @@ You will now see "Greetings from Spring Boot!" as the output.
 
 
 
+# Summary 
+I choose Problem #2 because I enjoy working with docker and found it as another opportunity to showcase my skills with containerization.  My approach was to implement as much automation as possible while keeping production level practices.  
